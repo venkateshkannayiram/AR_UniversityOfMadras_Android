@@ -13,17 +13,17 @@ In this project, the entire 3D models were created by Revit Autodesk and the ETL
 1. Android Device that supports the AR with Android 7.0 or above.
 
 # User guide
-1.After installing the app, open and give the Camera access for the first time.
+1. After installing the app, open and give the Camera access for the first time.
 
-2.Point the camera to the flat surface and wait for the app to detect the surface.
+2. Point the camera to the flat surface and wait for the app to detect the surface.
 
-3.Once the app shows the surface maker, tap the marker to place the AR model.
+3. Once the app shows the surface maker, tap the marker to place the AR model.
 
-4.Users can enlarge the model by pinching and swapping the two fingers on the model.
+4. Users can enlarge the model by pinching and swapping the two fingers on the model.
 
-5.Users can rotate the model by swapping the two fingers in a particular direction on the model.
+5. Users can rotate the model by swapping the two fingers in a particular direction on the model.
 
-6.Users can move the model by holding and swapping a single finger on the model to the new surface.
+6. Users can move the model by holding and swapping a single finger on the model to the new surface.
 
 # Link to Download the App
 https://drive.google.com/file/d/1thAqgpjVR49rvlO-gHzRt5iLMQ7rBbJN/view?usp=share_link
